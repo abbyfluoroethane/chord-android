@@ -1,25 +1,25 @@
 {
-  "version": "0.1.0-beta.2",
-  "build": 1591353,
+  "version": "0.1.0-beta.3",
+  "build": 1591369,
   "channel": "beta",
-  "commit": "408f30a",
-  "pub_date": "2026-10-04T06:42:22Z",
-  "release_url": "https://github.com/abbyfluoroethane/chord-android/releases/tag/v0.1.0-beta.2%2B408f30a",
-  "notes": "Changes since 0.1.0-beta.1:\n\n- Add the in-app updater and the update channel setting to the Android app\n- Add the desktop updater with an update channel setting\n- Number builds by commit time so the apps can move between update channels\n\nBuilt from commit `408f30a` of the Chord source.",
+  "commit": "8d485e5",
+  "pub_date": "2026-10-04T06:45:08Z",
+  "release_url": "https://github.com/abbyfluoroethane/chord-android/releases/tag/v0.1.0-beta.3%2B8d485e5",
+  "notes": "Changes since 0.1.0-beta.2:\n\n\nBuilt from commit `8d485e5` of the Chord source.",
   "apks": {
     "arm64-v8a": {
-      "url": "https://github.com/abbyfluoroethane/chord-android/releases/download/v0.1.0-beta.2%2B408f30a/chord-android-0.1.0-beta.2-arm64-v8a.apk",
-      "sha256": "a2fd977eebd8600c2f0788b579933098a29ae66557550be3c1025b0da2ff4119",
+      "url": "https://github.com/abbyfluoroethane/chord-android/releases/download/v0.1.0-beta.3%2B8d485e5/chord-android-0.1.0-beta.3-arm64-v8a.apk",
+      "sha256": "4ca26d77866afd6040f8c6f6a6a56b9131cff4570f7a179416a82b7571fddbbb",
       "size": 17911701
     },
     "x86_64": {
-      "url": "https://github.com/abbyfluoroethane/chord-android/releases/download/v0.1.0-beta.2%2B408f30a/chord-android-0.1.0-beta.2-x86_64.apk",
-      "sha256": "ecd1814cb53005fe5055303603d30fccf8b236c7c966755e53347f867c7fd8f9",
+      "url": "https://github.com/abbyfluoroethane/chord-android/releases/download/v0.1.0-beta.3%2B8d485e5/chord-android-0.1.0-beta.3-x86_64.apk",
+      "sha256": "b871b9c86f22711d5d6777b934806637458d6c71a7ba3e6f7758ba4fe0aeaf11",
       "size": 20074444
     },
     "universal": {
-      "url": "https://github.com/abbyfluoroethane/chord-android/releases/download/v0.1.0-beta.2%2B408f30a/chord-android-0.1.0-beta.2-universal.apk",
-      "sha256": "87411a32c77e5db89d911f0a4f06fb4c12a09e1b2f1217c635134d685f0c0de8",
+      "url": "https://github.com/abbyfluoroethane/chord-android/releases/download/v0.1.0-beta.3%2B8d485e5/chord-android-0.1.0-beta.3-universal.apk",
+      "sha256": "40fd2cdcf3227c64615736fddca1f11cde9e6e3de156888ed053fcbc594cbb32",
       "size": 35230427
     }
   }
