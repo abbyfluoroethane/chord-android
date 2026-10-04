@@ -1,25 +1,25 @@
 {
   "version": "0.1.0-nightly.20261004",
-  "build": 1591820,
+  "build": 1592128,
   "channel": "nightly",
-  "commit": "b568755",
-  "pub_date": "2026-10-04T08:57:31Z",
-  "release_url": "https://github.com/abbyfluoroethane/chord-nightly/releases/tag/android-v0.1.0-nightly.20261004%2Bb568755",
-  "notes": "A nightly build of `main`. It can break.\n\n- Pick the rustls crypto backend at start so the desktop login does not panic\n- Sign the macOS app ad hoc so macOS offers Open Anyway\n- Add the crates of the Flatpak portal to the offline Flatpak sources\n- Update the desktop app through the Flatpak portal on Linux\n- Ship Linux as a Flatpak from a self-hosted repository\n- Point the Flatpak manifest at a commit that has the packaging\n- Let the link preview cap test pass while other tests hold a permit\n- Give every npm lockfile entry its tarball URL and integrity\n- Add a Flatpak build of Chord Desktop from source\n- Add the MPL-2.0 licence text to the vendored tokio-xmpp\n\nBuilt from commit `b568755` of the Chord source.",
+  "commit": "2fd95e6",
+  "pub_date": "2026-10-04T13:55:13Z",
+  "release_url": "https://github.com/abbyfluoroethane/chord-nightly/releases/tag/android-v0.1.0-nightly.20261004%2B2fd95e6",
+  "notes": "A nightly build of `main`. It can break.\n\n- Recreate the empty folders of the Flatpak repository after a git checkout\n- Pick the rustls crypto backend at start so the desktop login does not panic\n- Sign the macOS app ad hoc so macOS offers Open Anyway\n- Add the crates of the Flatpak portal to the offline Flatpak sources\n- Update the desktop app through the Flatpak portal on Linux\n- Ship Linux as a Flatpak from a self-hosted repository\n- Point the Flatpak manifest at a commit that has the packaging\n- Let the link preview cap test pass while other tests hold a permit\n- Give every npm lockfile entry its tarball URL and integrity\n- Add a Flatpak build of Chord Desktop from source\n\nBuilt from commit `2fd95e6` of the Chord source.",
   "apks": {
     "arm64-v8a": {
-      "url": "https://github.com/abbyfluoroethane/chord-nightly/releases/download/android-v0.1.0-nightly.20261004%2Bb568755/chord-android-0.1.0-nightly.20261004-arm64-v8a.apk",
-      "sha256": "8a94476ddfb5c8a3adef199fea8c601d18f000c30a795afd91ef1416a43fa8e1",
+      "url": "https://github.com/abbyfluoroethane/chord-nightly/releases/download/android-v0.1.0-nightly.20261004%2B2fd95e6/chord-android-0.1.0-nightly.20261004-arm64-v8a.apk",
+      "sha256": "186e1417b3a89d301a0757ee0deb91e83c94d4bc92c214a72a9af5d91aec77b3",
       "size": 17895329
     },
     "x86_64": {
-      "url": "https://github.com/abbyfluoroethane/chord-nightly/releases/download/android-v0.1.0-nightly.20261004%2Bb568755/chord-android-0.1.0-nightly.20261004-x86_64.apk",
-      "sha256": "409068149ffa8d79db55f5c6292fad9f22dbdaa786f429a15c4c62af760393d8",
+      "url": "https://github.com/abbyfluoroethane/chord-nightly/releases/download/android-v0.1.0-nightly.20261004%2B2fd95e6/chord-android-0.1.0-nightly.20261004-x86_64.apk",
+      "sha256": "063b63e64d41949e51a1bca9ead7d8b147b4d0148978aa92f4ecce6a68bf3bff",
       "size": 20074456
     },
     "universal": {
-      "url": "https://github.com/abbyfluoroethane/chord-nightly/releases/download/android-v0.1.0-nightly.20261004%2Bb568755/chord-android-0.1.0-nightly.20261004-universal.apk",
-      "sha256": "d67525dab8010a277ca0a8e9757520f9f0dea22aa69a888df1cc85f96c767d8f",
+      "url": "https://github.com/abbyfluoroethane/chord-nightly/releases/download/android-v0.1.0-nightly.20261004%2B2fd95e6/chord-android-0.1.0-nightly.20261004-universal.apk",
+      "sha256": "1358be674eb0c0b386b11e6f548c4299e3b12af44c1dcfe89f60da2b95540fa4",
       "size": 35214055
     }
   }
