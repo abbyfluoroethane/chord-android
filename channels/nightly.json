@@ -1,0 +1,26 @@
+{
+  "version": "0.1.0-beta.2",
+  "build": 1591353,
+  "channel": "beta",
+  "commit": "408f30a",
+  "pub_date": "2026-10-04T06:42:22Z",
+  "release_url": "https://github.com/abbyfluoroethane/chord-android/releases/tag/v0.1.0-beta.2%2B408f30a",
+  "notes": "Changes since 0.1.0-beta.1:\n\n- Add the in-app updater and the update channel setting to the Android app\n- Add the desktop updater with an update channel setting\n- Number builds by commit time so the apps can move between update channels\n\nBuilt from commit `408f30a` of the Chord source.",
+  "apks": {
+    "arm64-v8a": {
+      "url": "https://github.com/abbyfluoroethane/chord-android/releases/download/v0.1.0-beta.2%2B408f30a/chord-android-0.1.0-beta.2-arm64-v8a.apk",
+      "sha256": "a2fd977eebd8600c2f0788b579933098a29ae66557550be3c1025b0da2ff4119",
+      "size": 17911701
+    },
+    "x86_64": {
+      "url": "https://github.com/abbyfluoroethane/chord-android/releases/download/v0.1.0-beta.2%2B408f30a/chord-android-0.1.0-beta.2-x86_64.apk",
+      "sha256": "ecd1814cb53005fe5055303603d30fccf8b236c7c966755e53347f867c7fd8f9",
+      "size": 20074444
+    },
+    "universal": {
+      "url": "https://github.com/abbyfluoroethane/chord-android/releases/download/v0.1.0-beta.2%2B408f30a/chord-android-0.1.0-beta.2-universal.apk",
+      "sha256": "87411a32c77e5db89d911f0a4f06fb4c12a09e1b2f1217c635134d685f0c0de8",
+      "size": 35230427
+    }
+  }
+}
